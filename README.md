@@ -1,11 +1,6 @@
 
 
-# Hi, I'm Aditi 👋
-
-🎉 I participated in **Hacktoberfest 2025** 🎉  
-
-[![Hacktoberfest 2025 Participant](https://img.shields.io/badge/Hacktoberfest-2025-blue?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
-[![Accepted PRs](https://img.shields.io/badge/Accepted%20PRs-4-brightgreen?style=for-the-badge)](#)
+[![An image of @aditi1295's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditi1295)](https://holopin.io/@aditi1295)
 
 
 <!--
