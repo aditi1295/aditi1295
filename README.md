@@ -1,4 +1,12 @@
-## Hi there 👋
+
+
+# Hi, I'm Aditi 👋
+
+🎉 I participated in **Hacktoberfest 2025** 🎉  
+
+[![Hacktoberfest 2025 Participant](https://img.shields.io/badge/Hacktoberfest-2025-blue?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
+[![Accepted PRs](https://img.shields.io/badge/Accepted%20PRs-4-brightgreen?style=for-the-badge)](#)
+
 
 <!--
 **aditi1295/aditi1295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
